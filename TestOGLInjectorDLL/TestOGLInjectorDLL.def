@@ -1,0 +1,4 @@
+LIBRARY TestOGLInjectorDLL
+EXPORTS
+InjectorCrtStubMain
+

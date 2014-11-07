@@ -1,0 +1,4 @@
+LIBRARY DrawHookInjectee
+EXPORTS
+InjectorCrtStubMain
+

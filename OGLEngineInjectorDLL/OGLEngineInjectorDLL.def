@@ -1,0 +1,4 @@
+LIBRARY OGLEngineInjectorDLL
+EXPORTS
+InjectorCrtStubMain
+
